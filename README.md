@@ -6,7 +6,7 @@
 
 This repo is a compilation of useful [Azure OpenAI Service](https://azure.microsoft.com/en-us/products/cognitive-services/openai-service) resources and code samples to help you get started and accelerate your technology adoption journey.
 
-The Azure OpenAI service provides REST API access to OpenAI's powerful language models on the Azure cloud. These models can be easily adapted to your specific task including but not limited to content generation, summarization, semantic search, and natural language to code translation. Users can access the service through REST APIs, Python SDK, .NET SDK, or our web-based interface in the Azure OpenAI Studio.
+The Azure OpenAI Service provides REST API access to OpenAI's powerful language models on the Azure cloud. These models can be easily adapted to your specific task including but not limited to content generation, summarization, semantic search, and natural language to code translation. Users can access the service through REST APIs, Python SDK, .NET SDK, or our web-based interface in the Azure AI Foundry.
 
 ## Get started
 
